@@ -1,3 +1,3 @@
-document.getElementByClassName("heart").addEventListener("click", function() {
-    alert('Liked!')
-  });
+document.getElementById("heart").addEventListener("click", function() {
+  alert("Liked! ❤️");
+});
