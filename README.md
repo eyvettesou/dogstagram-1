@@ -1,5 +1,5 @@
 # :camera: :dog2: dogstagram :dog2: :camera:
-### A Beginner's Development Workshop
+### A Beginner's Web Development Workshop
 
 ## :star2: Students
 ### Getting Started
