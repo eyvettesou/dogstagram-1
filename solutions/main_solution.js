@@ -1,22 +1,21 @@
-document.getElementById("heart_icon").addEventListener("click", function() {
+document.querySelector(".heart").addEventListener("click", function() {
   alert("Liked! ❤️");
 });
 
-// Homework #H1 - Make it so that someone can post another comment
-document.getElementById("comment_icon").addEventListener("click", function() {
+// Challenge #J1 - Make it so that someone can post another comment
+document.querySelector(".comment").addEventListener("click", function() {
   var user = prompt("What's your name?");
   var comment = prompt("Enter your comment below!");
-  document.getElementById("comment").innerHTML =
+  document.querySelector("#comment").innerHTML =
     `<b>${user}</b>` + " " + comment;
 });
 
-// Homework #H2 - Make it so that the # of likes increases by 1 when someone clicks on the heart icon
+// Challenge #J2 - Make it so that the # of likes increases by 1 when someone clicks on the heart icon
 count = 99
-document.getElementById("heart_icon").addEventListener("click", function() {
+document.querySelector(".heart").addEventListener("click", function() {
     count += 1;
-    document.getElementById("likes").innerHTML =
+    document.querySelector("#likes").innerHTML =
       count + " likes";
 });
 
-// Homework #H3 - Make it so that someone can post another picture
-
+// Challenge #J3 - Make it so that someone can post another picture
