@@ -9,7 +9,7 @@ This course is intended to be taught in a workshop format
 
 **Materials:**
 * Laptops, chargers, mice, and projector/screen or access to a monitor
-* Copies of handout [link to handout](https://docs.google.com/document/d/1pqQZTazaBOTMyjRsVNwuReCORkhCtnxu_gcY4-sYiyQ/edit?usp=sharing) and pens/pencils to write down their links
+* Copies of handout ([link to handout](https://docs.google.com/document/d/1pqQZTazaBOTMyjRsVNwuReCORkhCtnxu_gcY4-sYiyQ/edit?usp=sharing)) and pens/pencils to write down their links
 * Project Repository - https://github.com/Procore-Build-Academy/dogstagram
 
 **Preparation:**
