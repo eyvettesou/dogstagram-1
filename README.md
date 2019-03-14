@@ -1,18 +1,19 @@
 # :camera: :dog2: Dogstagram :dog2: :camera:
 ### A Course for Beginners
 
-**Goal:** Dogstagram is a guided introduction to HTML and CSS. By the end of this course, students should understand how to format HTML, how to associate CSS to HTML elements, and how to use CSS to customize what they’ve built.
+### Goal:
+Dogstagram is a guided introduction to HTML and CSS. By the end of this course, students should understand how to format HTML, how to associate CSS to HTML elements, and how to use CSS to customize what they’ve built.
 
-**Facilitator:**
+### Facilitator:
 This course is intended to be taught in a workshop format
   * Minimum time suggested: 2 hours - 2.5 hours
 
-**Materials:**
+### Materials:
 * Laptops, chargers, mice, and projector/screen or access to a monitor
 * Copies of handout ([link to handout](https://docs.google.com/document/d/1pqQZTazaBOTMyjRsVNwuReCORkhCtnxu_gcY4-sYiyQ/edit?usp=sharing)) and pens/pencils to write down their links
 * Project Repository - https://github.com/Procore-Build-Academy/dogstagram
 
-**Preparation:**
+### Preparation:
 * Follow the **Getting Started** guide in the repository
   * Visit the project on CodePen
     * Mentors: write bit.ly on board - https://bit.ly/dogstagram-app
@@ -21,16 +22,16 @@ This course is intended to be taught in a workshop format
   * Save your URL somewhere! (this will be yours to share)
   * (optional) We recommend changing the view for a better experience, by clicking on Change View and selecting the first option under Editor Layout
 
-**Protips:**
+### Protips:
 * Metaphors help a lot when it comes to explaining concepts to kids. Example:
   * Imagine a webpage as a room
   * HTML is how you explain to the computer what’s in the room
   * Elements are the types of furniture you can put in the room
   * CSS styles the furniture you put in the room
 * Be consistent with the patterns you introduce. Use the same language over and over.
-  * _Example:_ “Open a box!” // <div> </div>
+  * _Example:_ “Open a box!” == `<div> </div>`
 
-**Tips for each step:**
+### Tips for each step:
 * **Step 0: Preparing Their Minds**
   * We’ll be learning HTML and CSS today
   * Imagine a webpage as a room
