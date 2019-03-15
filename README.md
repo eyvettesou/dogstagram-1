@@ -50,7 +50,7 @@ This course is intended to be taught in a workshop format
 * **Step 3: Open a Box with label “header”**
   * Same piece of furniture as before, but with a different style, so it looks different.
 
-## :star2: Collaborators
+## :star2: Collaborators :star2:
 ### Procore Code Corps:
 * Ashton Doulabi
 * Eric Liu
